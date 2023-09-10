@@ -1,0 +1,41 @@
+{
+	"output": "eDP-1",
+	"layer": "top",
+	"position": "top",
+	"height": 24,
+	"margin": "12px, 0, -10px, 0",
+
+	"modules-left": ["clock"],
+	"modules-center": ["backlight", "pulseaudio"],
+	"modules-right": ["cpu", "memory"],
+
+	"clock": {
+		"format": "{:%H:%M  <b>&#8226;</b>  %A  <b>&#8226;</b>  %d %b}",
+		"interval": 60,
+	},
+
+	"backlight": {
+		"interval": 0.5,
+		"format": "{icon}   {percent}%   <b>&#8226;</b>",
+		"format-icons": ["", "󰝬"],
+		"on-scroll-up": "brightnessctl set +5%",
+		"on-scroll-down": "brightnessctl set 5%-",
+	},
+
+	"pulseaudio": {
+		"format": "  󰕾   {volume}%",
+		"format-muted": "  󰖁   Mute",
+		"on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+	},
+	
+	"cpu": {
+		"interval": 5,
+		"format": "力   {usage}%  <b>&#8226;</b> ",
+		"max-length": 10,
+	},
+	"memory": {
+		"interval": 30,
+		"format": " {}%",
+		"max-length": 10,
+	},
+}

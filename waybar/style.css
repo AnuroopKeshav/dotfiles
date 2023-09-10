@@ -1,0 +1,40 @@
+* {
+    font-family: Montserrat; 
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#waybar {
+	background-color: rgba(255, 255, 255, 0);
+}
+
+.modules-center {
+	margin-left: 1330px;
+	margin-right: 20px;
+	padding-left: 1em;
+	padding-right: 1em;
+	border-radius: 35px;
+	border: solid 0.6px #24dbe0;
+	color: #24dbe0;
+}
+
+.modules-right {
+	margin-right: 22px;
+	padding-left: 1em;
+	padding-right: 1em;
+	border-radius: 35px;
+	border: solid 0.6px #24dbe0;
+	color: #24dbe0;
+}
+
+
+#clock {
+	margin-left: 22px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	padding-left: 1em;
+	padding-right: 1em;
+	border-radius: 35px;	
+	background: linear-gradient(90deg, #24dbe0, #0ff0b8);
+	color: #1A1A1A;
+}
