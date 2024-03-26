@@ -1,2 +1,3 @@
-2023/12/27-03:05:46.604 65d6 Creating DB /home/sam/.config/WebCord/shared_proto_db/metadata since it was missing.
-2023/12/27-03:05:46.625 65d6 Reusing MANIFEST /home/sam/.config/WebCord/shared_proto_db/metadata/MANIFEST-000001
+2024/03/25-00:23:19.970 56c Reusing MANIFEST /home/sam/.config/WebCord/shared_proto_db/metadata/MANIFEST-000001
+2024/03/25-00:23:19.970 56c Recovering log #3
+2024/03/25-00:23:19.970 56c Reusing old log /home/sam/.config/WebCord/shared_proto_db/metadata/000003.log 

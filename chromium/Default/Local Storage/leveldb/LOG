@@ -1,0 +1,6 @@
+2024/03/25-12:13:14.683 4 Reusing MANIFEST /home/sam/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/03/25-12:13:14.689 4 Recovering log #3
+2024/03/25-12:13:14.690 4 Reusing old log /home/sam/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2024/03/25-18:40:17.621 6 Level-0 table #5: started
+2024/03/25-18:40:17.637 6 Level-0 table #5: 13557 bytes OK
+2024/03/25-18:40:17.647 6 Delete type=0 #3
