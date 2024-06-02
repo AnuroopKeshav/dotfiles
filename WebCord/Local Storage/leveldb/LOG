@@ -1,21 +1,6 @@
-2024/03/25-00:22:42.702 56c Reusing MANIFEST /home/sam/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
-2024/03/25-00:22:42.719 56c Recovering log #108
-2024/03/25-00:22:42.720 56c Reusing old log /home/sam/.config/WebCord/Local Storage/leveldb/000108.log 
-2024/03/25-00:25:45.138 56e Level-0 table #112: started
-2024/03/25-00:25:45.154 56e Level-0 table #112: 23494 bytes OK
-2024/03/25-00:25:45.162 56e Delete type=0 #108
-2024/03/25-00:34:45.138 56e Level-0 table #114: started
-2024/03/25-00:34:45.153 56e Level-0 table #114: 20064 bytes OK
-2024/03/25-00:34:45.162 56e Delete type=0 #111
-2024/03/25-00:34:45.162 56e Compacting 4@0 + 1@1 files
-2024/03/25-00:34:45.169 56e Generated table #115@0: 67 keys, 19278 bytes
-2024/03/25-00:34:45.170 56e Compacted 4@0 + 1@1 files => 19278 bytes
-2024/03/25-00:34:45.177 56e compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/03/25-00:34:45.177 56e Delete type=2 #103
-2024/03/25-00:34:45.177 56e Delete type=2 #106
-2024/03/25-00:34:45.177 56e Delete type=2 #109
-2024/03/25-00:34:45.177 56e Delete type=2 #112
-2024/03/25-00:34:45.178 56e Delete type=2 #114
-2024/03/25-00:43:45.138 56e Level-0 table #117: started
-2024/03/25-00:43:45.152 56e Level-0 table #117: 19836 bytes OK
-2024/03/25-00:43:45.161 56e Delete type=0 #113
+2024/05/30-00:36:58.748 3a61 Reusing MANIFEST /home/sam/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2024/05/30-00:36:58.757 3a61 Recovering log #359
+2024/05/30-00:36:58.758 3a61 Reusing old log /home/sam/.config/WebCord/Local Storage/leveldb/000359.log 
+2024/05/30-00:39:00.800 3a61 Level-0 table #362: started
+2024/05/30-00:39:00.816 3a61 Level-0 table #362: 39662 bytes OK
+2024/05/30-00:39:00.824 3a61 Delete type=0 #359

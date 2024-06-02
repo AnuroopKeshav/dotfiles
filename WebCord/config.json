@@ -22,7 +22,7 @@
                 "fingerprinting": true
             },
             "permissions": {
-                "video": null,
+                "video": true,
                 "audio": true,
                 "fullscreen": true,
                 "notifications": null,

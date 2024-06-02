@@ -1,3 +1,5 @@
-2024/03/18-15:12:03.865 3147 Reusing MANIFEST /home/sam/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
-2024/03/18-15:12:03.873 3147 Recovering log #108
-2024/03/18-15:12:03.873 3147 Reusing old log /home/sam/.config/WebCord/Local Storage/leveldb/000108.log 
+2024/05/26-13:52:53.472 14d8 Reusing MANIFEST /home/sam/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2024/05/26-13:52:53.480 14d8 Recovering log #354
+2024/05/26-13:52:53.481 14d8 Level-0 table #358: started
+2024/05/26-13:52:53.486 14d8 Level-0 table #358: 24104 bytes OK
+2024/05/26-13:52:53.495 14d8 Delete type=0 #354
